@@ -12,7 +12,7 @@ This is my first parallax scrolling website project.
 - Beginner friendly project
 
 ## 🌐 Live Demo
-https://praveenrathore007.github.io/parallax-website/
+https://praveenrathore007.github.io/parallax-effect-website2.0/
 
 ## 📚 What I Learned
 - Parallax effect using CSS
